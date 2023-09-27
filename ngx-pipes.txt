@@ -1,0 +1,6 @@
+https://www.npmjs.com/package/ngx-pipes
+timeAgo
+ucFirst
+filterBy
+orderBy
+percentage
